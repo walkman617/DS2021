@@ -7,7 +7,7 @@
 1. youtube.com/watch?v=6UPJHyiJft0 (1:31 min.) (2017); 
 2. youtube.com/watch?v=EVbd3ejEXus (2:49 min.) (2017).
 
-**QUESTIONS**: [Answer Sheet](http://nankai-cs.mikecrm.com/qi6ABxT)
+**QUESTIONS**: 
 1. It is said that KONE is embedding intelligence across its supply chain and enables smarter buildings. Explain.
 2. Describe the role of IoT in this case.
 3. What makes IBM Watson a necessity in this case?
