@@ -7,6 +7,12 @@
 1. youtube.com/watch?v=6UPJHyiJft0 (1:31 min.) (2017); 
 2. youtube.com/watch?v=EVbd3ejEXus (2:49 min.) (2017).
 
+**QUESTIONS**: [Answer Sheet](http://nankai-cs.mikecrm.com/qi6ABxT)
+1. It is said that KONE is embedding intelligence across its supply chain and enables smarter buildings. Explain.
+2. Describe the role of IoT in this case.
+3. What makes IBM Watson a necessity in this case?
+4. Check IBM Advanced Analytics. What tools were included that relate to this case?
+5. Check IBM cognitive buildings. How do they relate to this case?
 ____
 KONE is a global industrial company (based in Finland) that manufactures mostly eleva- tors and escalators and also services over 1.1 million elevators, escalators, and related equipment in several countries. The company employs over 50,000 people.
 
